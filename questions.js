@@ -1,8 +1,8 @@
 questions =  [
-    {"id": 0, "question": "Freedom of business is the best practical way a society can prosper.", "effects": {"right": 1}},
-    {"id": 1, "question": "Charity is a better way of helping those in need than social welfare.", "effects": {"right": 1}},
-    {"id": 2, "question": "Wages are always fair, as employers know best what a worker's labour is worth.", "effects": {"right": 1}},
-    {"id": 3, "question": "It is \"human nature\" to be greedy.", "effects": {"right": 1}},
+    {"id": 0, "question": "Geschätfsfreiheit ist der beste praktische Weg damit eine Gesellschaft gedehein kann.", "effects": {"right": 1}},
+    {"id": 1, "question": "Spenden ist eine bessere Hilfe für Menschen die es benötigen, anstelle von Sozialhilfe.", "effects": {"right": 1}},
+    {"id": 2, "question": "Gehälter sind immer gerecht, da der Arbeitgeber am Besten weiß was die Arbeit des Angestellten wert ist.", "effects": {"right": 1}},
+    {"id": 3, "question": "Es ist die menschliche Natur gierig zu sein.", "effects": {"right": 1}},
     {"id": 4, "question": "\"Exploitation\" is an outdated term, as the struggles of 1800s capitalism don't exist anymore.", "effects": {"right": 1}},
     {"id": 5, "question": "Communism is an ideal that can never work in practice.", "effects": {"right": 1}},
     {"id": 6, "question": "Taxation of the wealthy is a bad idea, society would be better off without it.", "effects": {"right": 1}},
