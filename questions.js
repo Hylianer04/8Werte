@@ -1,7 +1,7 @@
 questions =  [
-    {"id": 0, "question": "Geschätfsfreiheit ist der beste praktische Weg damit eine Gesellschaft gedehein kann.", "effects": {"right": 1}},
-    {"id": 1, "question": "Spenden ist eine bessere Hilfe für Menschen die es benötigen, anstelle von Sozialhilfe.", "effects": {"right": 1}},
-    {"id": 2, "question": "Gehälter sind immer gerecht, da der Arbeitgeber am Besten weiß was die Arbeit des Angestellten wert ist.", "effects": {"right": 1}},
+    {"id": 0, "question": "Geschätfsfreiheit ist der beste praktische Weg damit eine Gesellschaft gedeihen kann.", "effects": {"right": 1}},
+    {"id": 1, "question": "Spenden anstatt von Sozialhilfe, ist eine bessere Hilfe für Menschen die es benötigen.", "effects": {"right": 1}},
+    {"id": 2, "question": "Gehälter sind immer gerecht, da der Arbeitgeber am Besten weiß, was die Arbeit des Angestellten wert ist.", "effects": {"right": 1}},
     {"id": 3, "question": "Es ist die menschliche Natur gierig zu sein.", "effects": {"right": 1}},
     {"id": 4, "question": "\"Exploitation\" is an outdated term, as the struggles of 1800s capitalism don't exist anymore.", "effects": {"right": 1}},
     {"id": 5, "question": "Communism is an ideal that can never work in practice.", "effects": {"right": 1}},
