@@ -1,1 +1,1 @@
-SapplyValues is a clone of the Sapply political compass, made to use 8values' UI.
+8Were ist ein deutscher Klon von "Sapply political compass", welcher die "8values' UI" nutzt.
