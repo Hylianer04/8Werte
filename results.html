@@ -44,15 +44,15 @@
     
                 var dot = c.getContext("2d");
                 dot.beginPath();
-                dot.arc(200 + (1000 * (x_axis+10)/20), 1150 - (1000 * (y_axis + 10)/20), 25, 0, 2 * Math.PI);
+                dot.arc(262 + (1000 * (x_axis+10)/20), 1147 - (1000 * (y_axis + 10)/20), 25, 0, 2 * Math.PI);
                 dot.fillStyle = 'red';
                 dot.fill();
                 dot.stroke();
     
                 var line = c.getContext("2d");
                 line.beginPath();
-                line.moveTo(1562, 1145 - (1000 * (z_axis + 10)/20));
-                line.lineTo(1712, 1145 - (1000 * (z_axis + 10)/20));
+                line.moveTo(1562, 1142 - (1000 * (z_axis + 10)/20));
+                line.lineTo(1712, 1142 - (1000 * (z_axis + 10)/20));
                 line.lineWidth = 10;
                 line.strokeStyle = "red";
                 line.stroke();
@@ -60,9 +60,9 @@
                 ctx.font="50px Montserrat"
                 ctx.textAlign="center"
                 ctx.fillStyle="#222222"
-                ctx.fillText("Left / Right Axis (x): " + x_axis, 725, 1375)
-                ctx.fillText("Auth / Lib Axis (y): " + y_axis, 725, 1450)
-                ctx.fillText("Prog / Con Axis (z): " + z_axis, 725, 1525)
+                ctx.fillText("Left / Right Axis (x): " + x_axis, 725, 1300)
+                ctx.fillText("Auth / Lib Axis (y): " + y_axis, 725, 1375)
+                ctx.fillText("Prog / Con Axis (z): " + z_axis, 725, 1450)
                 ctx.textAlign="right"
                 ctx.font="60px Montserrat"
                 ctx.fillText("hylianer04.github.io/Politigraph", 1820, 1560)
