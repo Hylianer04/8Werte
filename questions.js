@@ -1,6 +1,6 @@
 questions =  [
     {"id": 0, "question": "Geschätfsfreiheit ist der beste praktische Weg, damit eine Gesellschaft gedeihen kann.", "effects": {"right": 1}},
-    {"id": 1, "question": "Spenden anstatt von Sozialhilfe ist eine bessere Hilfe für Menschen, die es benötigen.", "effects": {"right": 1}},
+    {"id": 1, "question": "Spenden anstelle von Sozialhilfen sind eine bessere Möglichkeit um Menschen zu helfen, die es benötigen.", "effects": {"right": 1}},
     {"id": 2, "question": "Gehälter sind immer gerecht, da der Arbeitgeber am Besten weiß, was die Arbeit des Angestellten wert ist.", "effects": {"right": 1}},
     {"id": 3, "question": "Es ist die menschliche Natur, gierig zu sein.", "effects": {"right": 1}},
     {"id": 4, "question": "\"Ausbeutung\" ist ein veralteter Term, da die Probleme des Kapitalismus der 1800er Jahre nicht mehr existieren.", "effects": {"right": 1}},
@@ -35,7 +35,7 @@ questions =  [
     {"id": 33, "question": "Nacktheit ist vollkommen natürlich.", "effects": {"prog": 1}},
     {"id": 34, "question": "Tiere verdienen bestimmte universelle Grundrechte.", "effects": {"prog": 1}},
     {"id": 35, "question": "Geschlecht ist ein soziales Konstrukt und kein Naturzustand.", "effects": {"prog": 1}},
-    {"id": 36, "question": "Gesetze, die auf kulturellen Werten anstatt auf ethischen Werten basieren, sind ungerecht.", "effects": {"prog": 1}},
+    {"id": 36, "question": "Gesetze, die auf kulturellen Werten und nicht auf ethischen Werten basieren, sind ungerecht.", "effects": {"prog": 1}},
     {"id": 37, "question": "Selbstbestimmung/Autonomie des Körpers gilt auch für Minderjährige, psychisch Kranke und Schwerkriminelle.", "effects": {"prog": 1}},
     {"id": 38, "question": "Homosexualität ist gegen meine eigenen Werten.", "effects": {"prog": -1}},
     {"id": 39, "question": "Transgeschlechtliche Personen sollten keine Kinder adoptieren dürfen.", "effects": {"prog": -1}},
