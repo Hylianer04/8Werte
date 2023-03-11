@@ -10,7 +10,7 @@ questions =  [
     {"id": 8, "question": "Organisationen und Unternehmen kann nicht vertraut werden und sie müssen von der Regierung reguliert/kontrolliert werden.", "effects": {"right": -1}},
     {"id": 9, "question": "Eine Regierung, die für alle da ist und sich für jeden sorgt, ist eine grundsätzlich gute Idee.", "effects": {"right": -1}},
     {"id": 10, "question": "Das aktuelle Sozialhilfensystem sollte ausgebaut und erweitert werden, um weitere Ungleichheiten zu vermindern.(Als Grundsatz wird hier das Welfare System der USA genommen)", "effects": {"right": -1}},
-    {"id": 11, "question": "Land/Grund sollte keine Ware zum Kaufen und Verkaufen sein.", "effects": {"right": -1}}
+    {"id": 11, "question": "Land/Grund sollte keine Ware zum Kaufen und Verkaufen sein.", "effects": {"right": -1}},
     {"id": 12, "question": "Alle Banken und Industrien sollten verstaatlicht werden.", "effects": {"right": -1}},
     {"id": 13, "question": "(Soziale) Klasse ist aktuell die primäre Einteilung innerhalb einer Gesellschaft.", "effects": {"right": -1}},
     {"id": 14, "question": "Wirtschaftliche Ungleichheit ist zu groß auf der Welt.", "effects": {"right": -1}},
