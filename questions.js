@@ -1,4 +1,4 @@
-questions =  [q
+questions =  [
     {"id": 0, "question": "Geschätfsfreiheit ist der beste praktische Weg, damit eine Gesellschaft gedeihen kann.", "effects": {"right": 1}},
     {"id": 1, "question": "Spenden anstatt von Sozialhilfe ist eine bessere Hilfe für Menschen, die es benötigen.", "effects": {"right": 1}},
     {"id": 2, "question": "Gehälter sind immer gerecht, da der Arbeitgeber am Besten weiß, was die Arbeit des Angestellten wert ist.", "effects": {"right": 1}},
