@@ -1,4 +1,4 @@
-questions =  [
+questions =  [q
     {"id": 0, "question": "Geschätfsfreiheit ist der beste praktische Weg damit eine Gesellschaft gedeihen kann.", "effects": {"right": 1}},
     {"id": 1, "question": "Spenden anstatt von Sozialhilfe, ist eine bessere Hilfe für Menschen die es benötigen.", "effects": {"right": 1}},
     {"id": 2, "question": "Gehälter sind immer gerecht, da der Arbeitgeber am Besten weiß, was die Arbeit des Angestellten wert ist.", "effects": {"right": 1}},
@@ -6,14 +6,14 @@ questions =  [
     {"id": 4, "question": "\"Ausbeutung\" ist ein veralteter Term, da die Probleme des Kapitalismus der 1800er Jahre nicht mehr existieren.", "effects": {"right": 1}},
     {"id": 5, "question": "Kommunismus ist ein Ideal, das niemals in der Praxis funktionieren kann.", "effects": {"right": 1}},
     {"id": 6, "question": "Besteuerung der Reichen ist eine schlechte Idee, die Gesellschaft wäre ohne dies besser dran.", "effects": {"right": 1}},
-    {"id": 7, "question": "The harder you work, the more you progress up the social ladder.", "effects": {"right": 1}},
-    {"id": 8, "question": "Organisations and corporations cannot be trusted and need to be regulated by the government.", "effects": {"right": -1}},
-    {"id": 9, "question": "A government that provides for everyone is an inherently good idea.", "effects": {"right": -1}},
-    {"id": 10, "question": "The current welfare system should be expanded to further combat inequality.", "effects": {"right": -1}},
-    {"id": 11, "question": "Land should not be a commodity to be bought and sold.", "effects": {"right": -1}},
-    {"id": 12, "question": "All industry and the bank should be nationalised.", "effects": {"right": -1}},
-    {"id": 13, "question": "Class is the primary division of society.", "effects": {"right": -1}},
-    {"id": 14, "question": "Economic inequality is too high in the world.", "effects": {"right": -1}},
+    {"id": 7, "question": "Je härter du arbeitest desto höher steigst du auf in der sozialen Ebene.", "effects": {"right": 1}},
+    {"id": 8, "question": "Organisationen und Unternehmen kann nicht vertraut werden und sie müssen von der Regierung reguliert/kontrolliert werden.", "effects": {"right": -1}},
+    {"id": 9, "question": "Eine Regierung die für alle da ist und sich für jeden sorgt ist eine grundsätzlich gute Idee.", "effects": {"right": -1}},
+    {"id": 10, "question": "Das aktuelle Sozialhilfensystem sollte ausgebaut und erweitert werden um weitere Ungleichheiten zu vermindern.(Als Grundsatz wird hier das Welfare System der USA genommen)", "effects": {"right": -1}},
+    {"id": 11, "question": "Land/Grund sollte keine Ware zum Kaufen und Verkaufen sein.", "effects": {"right": -1}}
+    {"id": 12, "question": "Alle Banken und Industrien sollten verstaatlicht werden.", "effects": {"right": -1}},
+    {"id": 13, "question": "(Soziale) Klasse ist aktuell die primäre Einteilung innerhalb einer Gesellschaft.", "effects": {"right": -1}},
+    {"id": 14, "question": "Wirtschaftliche Ungleichheit ist zu groß auf der Welt.", "effects": {"right": -1}},
     {"id": 15, "question": "Sometimes it is right that the government may spy on its citizens to combat extremists and terrorists.", "effects": {"auth": 1}},
     {"id": 16, "question": "Authority figures, if morally correct, are a good thing for society.", "effects": {"auth": 1}},
     {"id": 17, "question": "Strength is necessary for any government to succeed.", "effects": {"auth": 1}},
